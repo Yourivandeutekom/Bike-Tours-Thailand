@@ -344,7 +344,7 @@ section#tours {
 
 #local img {
     flex: 1;
-    block-size: 320px;
+    max-block-size: 320px;
     object-fit: cover
 }
 
